@@ -2,6 +2,8 @@
 I'm Hassaan Ali Bukhari, a second-year student at GIKI with a passion for Cybersecurity and Development. I am based in Islamabad, Pakistan, and I specialize in cybersecurity, with a keen interest in cybersecurity tools development. I'm proficient in C++ and Python, and I enjoy exploring the world of Windows 10, Windows 11, and Linux.
 
 
+[![](https://visitcount.itsvg.in/api?id=B3TA-BLOCKER&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassaan-ali-bukhari) 
 
@@ -18,7 +20,3 @@ I'm Hassaan Ali Bukhari, a second-year student at GIKI with a passion for Cybers
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=B3TA-BLOCKER&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=B3TA-BLOCKER&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
