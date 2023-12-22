@@ -3,11 +3,13 @@ I'm Hassaan Ali Bukhari, a second-year student at GIKI with a passion for Cybers
 
 
 
+## Profile Views:
+[![](https://visitcount.itsvg.in/api?id=B3TA-BLOCKER&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassaan-ali-bukhari) 
 
-## Profile Views:
-[![](https://visitcount.itsvg.in/api?id=B3TA-BLOCKER&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 # 💻 Tech Stack:
