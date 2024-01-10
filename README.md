@@ -27,12 +27,8 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 
 
 
-## Profile Views:
-[![](https://visitcount.itsvg.in/api?id=B3TA-BLOCKER&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-# 📊 GitHub Stats:
+# My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=B3TA-BLOCKER&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=B3TA-BLOCKER&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=B3TA-BLOCKER&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
