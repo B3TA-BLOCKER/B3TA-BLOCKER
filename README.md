@@ -9,9 +9,9 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 <strong> You can reach me at: </strong> 
 <p> 📫 hassaanalibukhari@gmail.com </p>
 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassaan-ali-bukhari) 
 <hr>
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassaan-ali-bukhari) 
 <h4> My Development Environment and Operating System: </h4>
 <em>
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
