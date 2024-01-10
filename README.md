@@ -8,6 +8,7 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 
 <strong> You can reach me at: </strong> 
 <p> 📫 hassaanalibukhari@gmail.com </p>
+<p> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassaan-ali-bukhari) </p>
 
 <hr>
 
@@ -28,11 +29,6 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 
 ## Profile Views:
 [![](https://visitcount.itsvg.in/api?id=B3TA-BLOCKER&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassaan-ali-bukhari) 
-
 
 
 
