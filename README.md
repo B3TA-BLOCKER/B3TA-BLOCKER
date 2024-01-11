@@ -24,11 +24,11 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> </em>
 
+
 <h4> Languages I Have Worked With: </h4>
-<em>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> 
-</em>
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=B3TA-BLOCKER&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
@@ -37,7 +37,6 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 # My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=B3TA-BLOCKER&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=B3TA-BLOCKER&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=B3TA-BLOCKER&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ### 🔝 Top Contributed Repo
