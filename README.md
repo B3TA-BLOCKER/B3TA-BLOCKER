@@ -36,11 +36,8 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 
 # My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=B3TA-BLOCKER&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=B3TA-BLOCKER&theme=jolly&hide_border=false)<br/>
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=B3TA-BLOCKER&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 
 </hr>
