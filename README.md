@@ -13,6 +13,7 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 
 <strong> You can reach me at: </strong> 
 <p> 📫 hassaanalibukhari@gmail.com </p>
+<p> 📫 u2022654@giki.edu.pk </p>
 
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassaan-ali-bukhari) 
 <hr>
