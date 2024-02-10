@@ -1,5 +1,5 @@
 <p align=center>
-<img height="350" width ="650" alt="GIF" src="./cyber-attack-.gif" />
+<img height="450" width ="850" alt="GIF" src="./cyber-attack-.gif" />
 </p>
 
 
