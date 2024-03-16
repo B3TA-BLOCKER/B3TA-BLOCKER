@@ -18,7 +18,7 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
    [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassaan-ali-bukhari) 
 <hr>
 
-<h4> My Development Environment and Operating System: </h4>
+<h4> <strong>My Development Environment and Operating System:</strong> </h4>
 <em>
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
@@ -26,7 +26,7 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> </em>
 
 
-<h4> Languages I Have Worked With: </h4>
+<h4><strong> Languages I Have Worked With:</strong> </h4>
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=B3TA-BLOCKER&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -35,7 +35,7 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 
 <hr>
 
-# My GitHub Stats:
+# <strong>My GitHub Stats: </strong>
 ![](https://github-readme-stats.vercel.app/api?username=B3TA-BLOCKER&theme=jolly&hide_border=true&include_all_commits=false&count_private=false)
 
 
