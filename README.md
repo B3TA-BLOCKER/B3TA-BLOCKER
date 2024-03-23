@@ -15,7 +15,7 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 <hr>
 
 <strong> You can reach me at: </strong> 
-<p> 📫 hassaanalibukhari@gmail.com </p>
+<p> <strong>📫 hassaanalibukhari@gmail.com </strong> </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassaan-ali-bukhari) 
 
