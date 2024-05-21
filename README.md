@@ -1,7 +1,7 @@
 <p align=center>
 <img height="400" width ="750" alt="GIF" src="./cyber-attack-.gif" />
+  
 </p>
-
 
 <hr>
 
@@ -52,11 +52,7 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 
 <div align="center">
 
-
-
 </div>
-
-
 
 
 <div align="center">
