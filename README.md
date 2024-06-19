@@ -10,7 +10,6 @@ Hi, My Name is <strong>Hassaan Ali Bukhari</strong>,
 
 I am a student at one of Pakistan's leading Computer Science and Engineering University <strong> Ghulam Ishaq Khan Institute </strong> pursuing a bachelor's degree in Cyber Security. Proficient in C/C++, Python, and bash. I'm passionate about cybersecurity, development, and exploring different <strong> Operating Systems </strong> ie(Windows 10, Windows 11, and Linux). I use this platform to collaborate with like-minded individuals, share my learning materials for new skills, and showcase the projects I've developed.
 
-<div align="center">
 
 <hr>
 
@@ -21,6 +20,9 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 
 <hr>
 
+<br>
+
+<div align="center">
 <h4> <strong>My Development Environment and Operating System:</strong> </h4>
 <em>
 <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" />
@@ -29,17 +31,18 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> </em>
-
+<br>
+  
 <h4> <strong>Databases I Have Worked On:</strong> </h4>
 <em>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </em>
+<br>
 
 
 <h4> <strong>Languages I Have Worked With:</strong> </h4>
-
 <em>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -48,8 +51,9 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </em>
 
-<h4> Frameworks I Have Worked On: </h4>
+<br>
 
+<h4> Frameworks I Have Worked On: </h4>
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> 
