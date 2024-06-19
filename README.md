@@ -69,9 +69,9 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 
 
 <div align="center">
-
+<br>
 <hr>
-<h5 style="font-size: 16px;"><strong>My GitHub Stats:</strong></h5>
+<h5 style="font-size: 100px;"><strong>My GitHub Stats:</strong></h5>
 
 [![](https://github-readme-stats.vercel.app/api?username=B3TA-BLOCKER&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/B3TA-BLOCKER)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=B3TA-BLOCKER&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=B3TA-BLOCKER&theme=jolly&hide_border=false)](https://github.com/B3TA-BLOCKER) 
