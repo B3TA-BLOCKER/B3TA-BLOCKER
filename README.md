@@ -20,7 +20,6 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 
 <hr>
 
-<br>
 
 <div align="center">
 <h4> <strong>My Development Environment and Operating System:</strong> </h4>
