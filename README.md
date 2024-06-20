@@ -84,3 +84,7 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=B3TA-BLOCKER&theme=github-compact"/>
+
+
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/B3TA-BLOCKER/count.svg)
