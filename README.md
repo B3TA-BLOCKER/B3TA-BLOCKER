@@ -61,9 +61,9 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
     <h3 align="center">Statistics</h3>
     
-   [![](https://github-readme-stats.vercel.app/api?username=B3TA-BLOCKER&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/B3TA-BLOCKER)
- [![](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=B3TA-BLOCKER&langs_count=8&layout=compact&theme=jolly&hide_border=false)](https://github.com/alsiam)
-  [![](https://github-readme-streak-stats.herokuapp.com/?user=B3TA-BLOCKER&theme=jolly&hide_border=false)](https://github.com/B3TA-BLOCKER)
+   [![](https://github-readme-stats.vercel.app/api?username=B3TA-BLOCKER&theme=radical&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/B3TA-BLOCKER)
+ [![](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=B3TA-BLOCKER&langs_count=8&layout=compact&theme=radical&hide_border=false)](https://github.com/alsiam)
+  [![](https://github-readme-streak-stats.herokuapp.com/?user=B3TA-BLOCKER&theme=radical&hide_border=false)](https://github.com/B3TA-BLOCKER)
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
