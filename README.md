@@ -17,10 +17,7 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<div align="center">
-  <strong><h1>My Development Stack</h1></strong>
-</div>
+# <div align="center"><strong>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=41&width=800&height=60&lines=My+Development+Stack&center=true&vCenter=true&color=00AEEF)](https://git.io/typing-svg)</strong></div>
 
 <div align="center">
   <table style="border: 2px solid white; border-collapse: collapse;">
@@ -67,7 +64,8 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 <div align="center">
     <br>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-    <h3 align="center">Statistics</h3>
+
+# <div align="center"><strong>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=41&width=800&height=60&lines=Statistics&center=true&vCenter=true&color=DA70D6)](https://git.io/typing-svg)</strong></div>
     
    [![](https://github-readme-stats.vercel.app/api?username=B3TA-BLOCKER&theme=radical&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/B3TA-BLOCKER)
  [![](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=B3TA-BLOCKER&langs_count=8&layout=compact&theme=radical&hide_border=false)](https://github.com/alsiam)
