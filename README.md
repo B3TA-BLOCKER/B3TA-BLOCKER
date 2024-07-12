@@ -4,10 +4,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
 Hi, My Name is <strong>Hassaan Ali Bukhari</strong>,
 
-I am a student at one of Pakistan's leading Computer Science and Engineering University <strong> Ghulam Ishaq Khan Institute </strong> pursuing a bachelor's degree in Cyber Security. Proficient in C/C++, Python, and bash. I'm passionate about cybersecurity, development, and exploring different <strong> Operating Systems </strong> i.e. (Windows 10, Windows 11, and Linux). I use this platform to collaborate with like-minded individuals, share my learning materials for new skills, and showcase the projects I've developed.
+I am a student at one of Pakistan's leading Computer Science and Engineering University <strong> Ghulam Ishaq Khan Institute </strong> pursuing a bachelor's degree in <strong>Cyber Security</strong>. My expertise lies in <strong>Python, C, C++, and Bash scripting</strong>, where I've crafted basic tools for cyber solutions and engaged in various network attack scenarios. I'm adept with coding across <strong>Windows, Linux, and macOS</strong> environments. Eager to expand my project portfolio, I'm keen on collaborating with fellow enthusiasts to innovate and secure our digital landscape.
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
