@@ -76,6 +76,9 @@ I am a student at one of Pakistan's leading Computer Science and Engineering Uni
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# ⚡Activity Graph:
+
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=B3TA-BLOCKER&bg_color=151515&color=9b59b6&line=9b59b6&point=ffffff&area=true&hide_border=true" />
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
