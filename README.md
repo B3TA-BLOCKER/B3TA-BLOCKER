@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Hi, My Name is <strong>Hassaan Ali Bukhari</strong>,
+Hi, I am <strong>Hassaan Ali Bukhari</strong>,
 
 A **Cybersecurity** student at **GIKI**. I build tools, write code, and break things to understand how they work. I write in **Python**, **C/C++**, and **Bash**.  Crafted exploits, ran attacks, and studied the aftermath., and built basic cyber tools across **Linux**, **Windows**, and **macOS**. Always experimenting. Always learning. Open to projects that push limits and sharpen skills.
 
