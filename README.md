@@ -6,7 +6,8 @@
 
 Hi, My Name is <strong>Hassaan Ali Bukhari</strong>,
 
-I am a student at one of Pakistan's leading Computer Science and Engineering University <strong> Ghulam Ishaq Khan Institute </strong> pursuing a bachelor's degree in <strong>Cyber Security</strong>. My expertise lies in <strong>Python, C, C++, and Bash scripting</strong>, where I've crafted basic tools for cyber solutions and engaged in various network attack scenarios. I'm adept with coding across <strong>Windows, Linux, and macOS</strong> environments. Eager to expand my project portfolio, I'm keen on collaborating with fellow enthusiasts to innovate and secure our digital landscape.
+A **Cybersecurity** student at **GIKI**. I build tools, write code, and break things to understand how they work. I write in **Python**, **C/C++**, and **Bash**.  Crafted exploits, ran attacks, and studied the aftermath., and built basic cyber tools across **Linux**, **Windows**, and **macOS**. Always experimenting. Always learning. Open to projects that push limits and sharpen skills.
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
