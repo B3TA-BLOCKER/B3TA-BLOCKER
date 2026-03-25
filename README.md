@@ -13,7 +13,7 @@ A **Cybersecurity** student at **GIKI**. I build tools, write code, and break th
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <strong> You can reach me at: </strong>
-<p> <strong>📫 hassaanalibukhari@gmail.com </strong> </p>
+<p> <strong>📫 root.b3ta.blocker@gmail.com </strong> </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hassaan-ali-bukhari)
 
