@@ -25,14 +25,15 @@ I play CTFs, hunt on HackTheBox, and write about it at [**Bukhari's Archive**](h
 
 ## 🛠 Skills
 
-| | |
+ 
+| Category | Stack |
 |:---|:---|
-| **Languages** | `C` &nbsp;`C++` &nbsp;`Python` &nbsp;`Bash` |
-| **Focus** | `Binary Exploitation` &nbsp;`Reverse Engineering` &nbsp;`Red Teaming` |
-| **Platforms** | `Linux` &nbsp;`Windows` |
-| **Tools** | `GDB/pwndbg` &nbsp;`Metasploit` &nbsp;`IDA` &nbsp;`Ghidra` |
-| **CTF** | `pwn` &nbsp;`rev` |
-
+| **Languages** | `C` &nbsp; `C++` &nbsp; `Python` &nbsp; `Bash` &nbsp; `x86 Assembly` |
+| **Focus** | `Binary Exploitation` &nbsp; `Reverse Engineering` &nbsp; `Red Teaming` &nbsp; `Malware Research` |
+| **Platforms** | `Linux` &nbsp; `Windows` |
+| **Tools** | `GDB/pwndbg` &nbsp; `Metasploit` &nbsp; `Burp Suite` &nbsp; `IDA` &nbsp; `Ghidra` &nbsp; `Wireshark` |
+| **CTF** | `pwn` &nbsp; `rev` |
+ 
 ---
 
 ## 🏆 Achievements
