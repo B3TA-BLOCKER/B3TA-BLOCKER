@@ -28,10 +28,10 @@ I play CTFs, hunt on HackTheBox, and write about it at [**Bukhari's Archive**](h
  
 | Category | Stack |
 |:---|:---|
-| **Languages** | `C` &nbsp; `C++` &nbsp; `Python` &nbsp; `Bash` &nbsp; `x86 Assembly` |
-| **Focus** | `Binary Exploitation` &nbsp; `Reverse Engineering` &nbsp; `Red Teaming` &nbsp; `Malware Research` |
+| **Languages** | `C` &nbsp; `C++` &nbsp; `Python` &nbsp; `Bash` |
+| **Focus** | `Binary Exploitation` &nbsp; `Reverse Engineering` &nbsp; `Red Teaming` |
 | **Platforms** | `Linux` &nbsp; `Windows` |
-| **Tools** | `GDB/pwndbg` &nbsp; `Metasploit` &nbsp; `Burp Suite` &nbsp; `IDA` &nbsp; `Ghidra` &nbsp; `Wireshark` |
+| **Tools** | `GDB/pwndbg`  &nbsp; `IDA` &nbsp; `Ghidra` |
 | **CTF** | `pwn` &nbsp; `rev` |
  
 ---
