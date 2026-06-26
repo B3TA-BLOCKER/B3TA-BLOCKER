@@ -14,6 +14,7 @@
 
 ---
 
+## `~/whoami`
 ```bash
 $ whoami
 hassaan-ali-bukhari
